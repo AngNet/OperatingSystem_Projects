@@ -3,10 +3,6 @@ Nme: Natalie Ang
 Course: CPSC 351 - 01, Operating Systems, Fall 2017
 Instructor: Professor William McCarthy
 
-NOTE: This is the code before the dining philosopher's output was
-sent out. The code works but if this is what's still submitted, I 
-wasn't able to rewrite the code to match your specific output. 
-
 To compile the program, use the command "gcc dine.c -lpthread" 
 Ignore the warnings and then run with "./a.out"
 
